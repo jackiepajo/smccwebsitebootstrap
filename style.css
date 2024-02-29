@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightyellow; 
+}
+header {
+    background-color: yellow; 
+    color: black;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    padding: 0.5em;
+    text-align: center;
+    background-color: blue;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 0.5em;
+    font-weight: bold;
+}
+
+section {
+    padding: 2em;
+    text-align: justify; /* Changed to justify to maintain consistency */
+}
+
+footer {
+    background-color: #eaf36a; 
+    color: #080808;
+    text-align: center;
+    padding: 0.5em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
